@@ -1,0 +1,11 @@
+{
+  "name": "agent-fleet-coordinator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "5.1.0"
+  }
+}
